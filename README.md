@@ -1,2 +1,2 @@
 # basic_python_projects
-beginner to advances python projects evaluating my hands on learning
+My Python learning journey: A repository of mini-projects, scripts, and automation tools for practice
